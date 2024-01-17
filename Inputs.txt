@@ -1,0 +1,20 @@
+Leverage
+20
+% of account per trade (%)
+2
+Trailing stop callback rate (%)
+1
+Short activation (-%)
+-1
+Short stop loss (%)
+5
+Long activation (%)
+1
+Long stop loss (-%)
+-5
+Moving Average Length
+50
+Average True Range Length
+14
+Maximum Concurrent Trades
+25
